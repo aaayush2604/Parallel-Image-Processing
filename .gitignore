@@ -1,0 +1,5 @@
+outputDataset/
+outputDataset_Seq/
+melanomaDataset/
+Classifier/skin_cancer_detection_model_processed.keras
+Classifier/skin_cancer_detection_model.keras
